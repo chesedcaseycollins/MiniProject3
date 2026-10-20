@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
+HasRecovered;95.0;100.0;0.855;1.000;1;1;NA;One disagreement: author used 'Partially', which is not in the yes/no vocabulary. Agreed one README commit after a 36-month gap is not recovery.
+WhyRecovered;85.0;100.0;NA;NA;3;3;NA;Three disagreements, all evidence specificity: author reasons were generic ('fixes and updates', 'older code needed work') and the trigger commits told a more specific story. Two Compromise, one ValidatorKept.
+ActivityPattern;50.0;100.0;0.320;1.000;10;10;NA;Ten disagreements, all terminology: one author used his own labels (frequent bursts, occasional activity) instead of the codebook set. Mapped to codebook labels using commits per year.
+Currentstatus;85.0;100.0;0.348;1.000;3;3;NA;Three disagreements, all rule application: agreed 'last commit' means the default branch and the MiniProject2 data window, so unmerged side branches, bot branches and commits after the snapshot do not count.
+RecentThemes;65.0;100.0;NA;NA;7;7;NA;Seven disagreements: snapshot drift (latest-10 commits changed between author's data pull and validation) and category choice for CI tooling (Other) and Dependabot commits (Automated bot contributions). Snapshot cases resolved AuthorKept.

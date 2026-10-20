@@ -1,0 +1,51 @@
+WOCProjectID;ProjectOwnerNetID;ValidatorNetID;Field;AuthorValue;ValidatorValue;PreDiscussAgreementstatus(Yes/No);AdjudicatedValue;KeyEvidence;Comments
+caseyyoungflesh_post;ccolli78;bnoyes;HasRecovered;Yes;Yes;Yes;Yes;667 commits after gap;
+cosmoscout_cosmoscout-vr;ccolli78;bnoyes;HasRecovered;Yes;Yes;Yes;Yes;5431 commits after gap;
+davidcarslaw_openair;ccolli78;bnoyes;HasRecovered;Yes;Yes;Yes;Yes;1093 commits after gap;
+jackwasey_icd;ccolli78;bnoyes;HasRecovered;Partially;No;No;No;Only 1 commit after a 3 year gap, I wouldn't consider that recovered;Resolved: 'Partially' is not codebook vocabulary (yes/no). One README commit after a 36-month gap is not recovery, the 2026-09 check-fixing burst falls outside the MiniProject2 data window.
+jbei_edd;ccolli78;bnoyes;HasRecovered;N/A (no gap);N/A, (never stopped);Yes;N/A (no gap);No activity gap;
+oxfordcontrol_cosmo.jl;ccolli78;bnoyes;HasRecovered;Yes (modestly, 52 commits after);Yes;Yes;Yes (modestly, 52 commits after);52 commits after gap;
+qutech-delft_quantuminspire;ccolli78;bnoyes;HasRecovered;Yes;Yes;Yes;Yes;1050 commits after gap;
+scify_jedaitoolkit;ccolli78;bnoyes;HasRecovered;No;No;Yes;No;Only 2 commits after a 1 year gap;
+soft-matter_trackpy;ccolli78;bnoyes;HasRecovered;Yes (212 commits after, as low-level maintenance);Yes;Yes;Yes (212 commits after, as low-level maintenance);212 commits after gap;
+tryolabs_norfair;ccolli78;bnoyes;HasRecovered;N/A (no gap);N/A (never stopped);Yes;N/A (no gap);No activity gap;
+caseyyoungflesh_post;ccolli78;bnoyes;WhyRecovered;Work resumed 2016-09-27 with a 119-commit month adding a second posterior plot style (poplot2) and plot options, a feature push by the author.;Development started again with a large number of commits;Yes;Work resumed 2016-09-27 with a 119-commit month adding a second posterior plot style (poplot2) and plot options, a feature push by the author.;119 commits;
+cosmoscout_cosmoscout-vr;ccolli78;bnoyes;WhyRecovered;Public repository set up in July 2019, followed by sustained development of 100-280 commits/month through 2020.;Development started again, with a public repository set up  the public repository was created;Yes;Public repository set up in July 2019, followed by sustained development of 100-280 commits/month through 2020.;Public repository created;
+davidcarslaw_openair;ccolli78;bnoyes;WhyRecovered;Commits resumed 2021-09-14 with a new plot option and a commit 'for CRAN release' the next day, so a CRAN release drove the restart. From 2022 activity rose sharply, which coincides with Jack Davison becoming the main contributor (most 2025-2026 commits are his).;New features and updates were added;Yes;Commits resumed 2021-09-14 with a new plot option and a commit 'for CRAN release' the next day, so a CRAN release drove the restart. From 2022 activity rose sharply, which coincides with Jack Davison becoming the main contributor (most 2025-2026 commits are his).;Commits resumed;
+jackwasey_icd;ccolli78;bnoyes;WhyRecovered;A single README commit on 2024-12-20 ended the gap. In 2026-09 the same author made a burst of commits (PR #219 'fix-modern-r-check': GitHub Actions instead of Travis/AppVeyor, R-hub v2, snprintf, S3 method warnings), i.e. a push to make the package pass checks on modern R.;Only one commit after an extended gap;Yes;A single README commit on 2024-12-20 ended the gap. In 2026-09 the same author made a burst of commits (PR #219 'fix-modern-r-check': GitHub Actions instead of Travis/AppVeyor, R-hub v2, snprintf, S3 method warnings), i.e. a push to make the package pass checks on modern R.;Only one README commit;
+jbei_edd;ccolli78;bnoyes;WhyRecovered;;No gap;Yes;N/A (no gap);No activity gap;
+oxfordcontrol_cosmo.jl;ccolli78;bnoyes;WhyRecovered;A crash fix by Paul Goulart (PR #187, 2024-04) was followed by Michael Garstka adding documentation sections, a how-to-develop guide and release 0.8.9 (2024-05). Releases have continued (0.8.10 to 0.8.12 in 2026).;A crash fix a crash by Paul Goulart resumed development;Yes;A crash fix by Paul Goulart (PR #187, 2024-04) was followed by Michael Garstka adding documentation sections, a how-to-develop guide and release 0.8.9 (2024-05). Releases have continued (0.8.10 to 0.8.12 in 2026).;Crash fix;
+qutech-delft_quantuminspire;ccolli78;bnoyes;WhyRecovered;April 2020 brought a burst of ticketed fixes, hardware-backend support and the 1.2.0 release (PR 2020-04-17). From 2023 activity rose steadily to a new high in 2025, recent commits use a [QI2-xxxx] prefix, suggesting work for a new Quantum Inspire 2 platform.;Multiple bug fixes;Yes;April 2020 brought a burst of ticketed fixes, hardware-backend support and the 1.2.0 release (PR 2020-04-17). From 2023 activity rose steadily to a new high in 2025, recent commits use a [QI2-xxxx] prefix, suggesting work for a new Quantum Inspire 2 platform.;Multiple bug fixes;
+scify_jedaitoolkit;ccolli78;bnoyes;WhyRecovered;N/A. The only post-gap activity is a Dependabot security bump of commons-lang3 merged on 2025-07-12, nothing since, and the repo is archived.;Never really recovered;Yes;N/A. The only post-gap activity is a Dependabot security bump of commons-lang3 merged on 2025-07-12, nothing since, and the repo is archived.;Only 2 commits after gap;
+soft-matter_trackpy;ccolli78;bnoyes;WhyRecovered;In 2021-02 Casper van der Wel moved CI to GitHub Actions, fixed NumPy 1.20 / SciPy 1.5 deprecations and version constraints, dropped Python 2 and merged the pending PRs, a user then asked for a release (issue 2021-03-17). Recovery was driven by ecosystem breakage, not new features.;Development resumed maintenance updates;Yes;In 2021-02 Casper van der Wel moved CI to GitHub Actions, fixed NumPy 1.20 / SciPy 1.5 deprecations and version constraints, dropped Python 2 and merged the pending PRs, a user then asked for a release (issue 2021-03-17). Recovery was driven by ecosystem breakage, not new features.;CI updates;
+tryolabs_norfair;ccolli78;bnoyes;WhyRecovered;;No gap;Yes;N/A (no gap);No activity gap;
+caseyyoungflesh_post;ccolli78;bnoyes;ActivityPattern;irregular;irregular;Yes;irregular;4 gaps;
+cosmoscout_cosmoscout-vr;ccolli78;bnoyes;ActivityPattern;declining;declining;Yes;declining;1 gap;
+davidcarslaw_openair;ccolli78;bnoyes;ActivityPattern;U-shaped;U-shaped;Yes;U-shaped;5-month longest gap which recovery;
+jackwasey_icd;ccolli78;bnoyes;ActivityPattern;declining;declining;Yes;declining;36 month long gap never recovered;
+jbei_edd;ccolli78;bnoyes;ActivityPattern;declining;declining;Yes;declining;No activity gaps;
+oxfordcontrol_cosmo.jl;ccolli78;bnoyes;ActivityPattern;declining;declining;Yes;declining;2 gaps;
+qutech-delft_quantuminspire;ccolli78;bnoyes;ActivityPattern;U-shaped;U-shaped;Yes;U-shaped;4 month long gap which recovery;
+scify_jedaitoolkit;ccolli78;bnoyes;ActivityPattern;declining;declining;Yes;declining;7 gaps;
+soft-matter_trackpy;ccolli78;bnoyes;ActivityPattern;declining;declining;Yes;declining;5 gaps;
+tryolabs_norfair;ccolli78;bnoyes;ActivityPattern;declining;declining;Yes;declining;No activity gaps;
+caseyyoungflesh_post;ccolli78;bnoyes;Currentstatus;Active;Active;Yes;Active;;
+cosmoscout_cosmoscout-vr;ccolli78;bnoyes;Currentstatus;Active;Active;Yes;Active;;
+davidcarslaw_openair;ccolli78;bnoyes;Currentstatus;Active;Active;Yes;Active;;
+jackwasey_icd;ccolli78;bnoyes;Currentstatus;Active;Inactive;No;Inactive;Only commit in the data window after the 36-month gap is a README update on 2024-12-20, before the 2025-04-01 cutoff.;Corrected during discussion: validator's Inactive had been entered on the scify_jedaitoolkit row by mistake.
+jbei_edd;ccolli78;bnoyes;Currentstatus;Inactive;Inactive;Yes;Inactive;;
+oxfordcontrol_cosmo.jl;ccolli78;bnoyes;Currentstatus;Active;Active;Yes;Active;;
+qutech-delft_quantuminspire;ccolli78;bnoyes;Currentstatus;Active;Active;Yes;Active;;
+scify_jedaitoolkit;ccolli78;bnoyes;Currentstatus;Active;Active;Yes;Active;;Corrected during discussion: the Inactive entered here belonged to jackwasey_icd. Dependabot bump merged 2025-07-12 is after the cutoff, so Active by the codebook rule even though the repo is archived.
+soft-matter_trackpy;ccolli78;bnoyes;Currentstatus;Active;Active;Yes;Active;;
+tryolabs_norfair;ccolli78;bnoyes;Currentstatus;Active;Active;Yes;Active;;
+caseyyoungflesh_post;ccolli78;bnoyes;RecentThemes;Release:Feature development;Release:Feature development;Yes;Release:Feature development;New release and feature development addition;
+cosmoscout_cosmoscout-vr;ccolli78;bnoyes;RecentThemes;Feature development:Other;Feature development:Other;Yes;Feature development:Other;Feature development and updates made;
+davidcarslaw_openair;ccolli78;bnoyes;RecentThemes;Bug fixes:Feature development;Bug fixes:Feature development;Yes;Bug fixes:Feature development;Bug fixes and new feature development;
+jackwasey_icd;ccolli78;bnoyes;RecentThemes;Other:Bug fixes;Other:Bug fixes;Yes;Other:Bug fixes;Bug fixes and updates;
+jbei_edd;ccolli78;bnoyes;RecentThemes;Bug fixes:Other;Bug fixes:Other;Yes;Bug fixes:Other;Bug fixes and updates;
+oxfordcontrol_cosmo.jl;ccolli78;bnoyes;RecentThemes;Release:Bug fixes;Release:Bug fixes;Yes;Release:Bug fixes;Bug fixes and updates;
+qutech-delft_quantuminspire;ccolli78;bnoyes;RecentThemes;Automated bot contributions:Bug fixes;Automated bot contributions:Bug fixes;Yes;Automated bot contributions:Bug fixes;Automated bot contributions and bug fixes;
+scify_jedaitoolkit;ccolli78;bnoyes;RecentThemes;Other:Dependency updates;Automated bot contributions:Dependency updates;No;Automated bot contributions:Dependency updates;Post-gap commits are a Dependabot security bump of commons-lang3 and its merge.;Corrected during discussion: validator's value had been copied from the author's. Validator coded the Dependabot commit as Automated bot contributions.
+soft-matter_trackpy;ccolli78;bnoyes;RecentThemes;Documentation updates:Feature development;Documentation updates:Feature development;Yes;Documentation updates:Feature development;Documentation and feature development;
+tryolabs_norfair;ccolli78;bnoyes;RecentThemes;Release:Dependency updates;Release:Dependency updates;Yes;Release:Dependency updates;Dependency updates;
